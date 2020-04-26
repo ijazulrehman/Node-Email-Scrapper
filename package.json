@@ -1,0 +1,18 @@
+{
+  "name": "emailscraper",
+  "version": "1.0.0",
+  "description": "EmailScraper is an email scrapping tool that can scrap emails daily from Google search query only.",
+  "main": "app.js",
+  "dependencies": {
+    "extract-emails": "0.0.5",
+    "fs": "0.0.1-security",
+    "get-urls": "^7.2.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@ijazulrehman",
+  "license": "ISC"
+}
